@@ -3,9 +3,9 @@ package parser
 // 解析会员信息
 
 import (
-	"dali.cc/ccmouse/crawler/engine"
+	"My_Go_Study/crawler/engine"
 	"regexp"
-	"dali.cc/ccmouse/crawler/model"
+	"My_Go_Study/crawler/model"
 	"reflect"
 )
 

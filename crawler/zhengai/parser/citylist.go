@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"dali.cc/ccmouse/crawler/engine"
+	"My_Go_Study/crawler/engine"
 	"regexp"
 )
 

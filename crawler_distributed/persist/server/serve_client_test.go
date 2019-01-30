@@ -2,9 +2,9 @@ package main
 
 import (
 	"testing"
-	"dali.cc/ccmouse/crawler_distributed/rpcsupport"
-	"dali.cc/ccmouse/crawler/engine"
-	"dali.cc/ccmouse/crawler/model"
+	"My_Go_Study/crawler_distributed/rpcsupport"
+	"My_Go_Study/crawler/engine"
+	"My_Go_Study/crawler/model"
 	"time"
 )
 

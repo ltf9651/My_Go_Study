@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"dali.cc/ccmouse/crawler/fetcher"
+	"My_Go_Study/crawler/fetcher"
 	"github.com/gpmgo/gopm/modules/log"
 )
 

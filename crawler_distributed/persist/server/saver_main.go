@@ -2,10 +2,10 @@ package main
 
 import (
 	"gopkg.in/olivere/elastic.v5"
-	"dali.cc/ccmouse/crawler_distributed/rpcsupport"
-	"dali.cc/ccmouse/crawler_distributed/persist"
+	"My_Go_Study/crawler_distributed/rpcsupport"
+	"My_Go_Study/crawler_distributed/persist"
 	"log"
-	"dali.cc/ccmouse/crawler_distributed/config"
+	"My_Go_Study/crawler_distributed/config"
 	"fmt"
 )
 

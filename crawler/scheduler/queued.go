@@ -1,6 +1,6 @@
 package scheduler
 
-import "dali.cc/ccmouse/crawler/engine"
+import "My_Go_Study/crawler/engine"
 
 // 队列版的并发请求
 // 一个请求队列，一个工作队列。

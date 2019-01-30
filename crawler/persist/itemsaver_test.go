@@ -2,11 +2,11 @@ package persist
 
 import (
 	"testing"
-	"dali.cc/ccmouse/crawler/model"
+	"My_Go_Study/crawler/model"
 	"gopkg.in/olivere/elastic.v5"
 	"context"
 	"encoding/json"
-	"dali.cc/ccmouse/crawler/engine"
+	"My_Go_Study/crawler/engine"
 )
 
 func TestSave(t *testing.T) {
