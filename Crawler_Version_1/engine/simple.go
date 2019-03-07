@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"My_Go_Study/Crawler/fecher"
+	"My_Go_Study/Crawler_Version_1/fecher"
 	"log"
 )
 

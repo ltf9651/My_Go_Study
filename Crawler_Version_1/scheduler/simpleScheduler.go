@@ -1,7 +1,7 @@
 package scheduler
 
 import (
-	"My_Go_Study/Crawler/engine"
+	"My_Go_Study/Crawler_Version_1/engine"
 )
 
 type SimpleScheduler struct {

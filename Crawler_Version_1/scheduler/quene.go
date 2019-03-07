@@ -1,6 +1,6 @@
 package scheduler
 
-import "My_Go_Study/Crawler/engine"
+import "My_Go_Study/Crawler_Version_1/engine"
 
 type QuenedScheduler struct {
 	requestChan chan engine.Request

@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"My_Go_Study/Crawler/engine"
-	"My_Go_Study/Crawler/model"
+	"My_Go_Study/Crawler_Version_1/engine"
+	"My_Go_Study/Crawler_Version_1/model"
 	"regexp"
 	"strconv"
 )
